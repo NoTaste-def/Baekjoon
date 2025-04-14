@@ -1,0 +1,1 @@
+puts (gets.chomp.to_f / 5).ceil()
